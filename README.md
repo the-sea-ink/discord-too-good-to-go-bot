@@ -1,1 +1,2 @@
 # discord-too-good-to-go-bot
+This simple script that makes a request to [Too Good To Go]("https://www.toogoodtogo.com/de") API to check if any places from "favourites" have anything available, then sends a text message to discord, notifying about the results of this request. 
